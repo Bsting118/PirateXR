@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: e110f9ba5bd8f0645b2c36d021bdd1b0
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 6f5681f2a67c5f34abd288c68c19b76d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 1df17421805b80c46b98187897c8e681
+  - enabled: 0
+    path: Assets/Scenes/StartMenuBackup.unity
+    guid: da90f86c58d196144969b5ff0a919b71
+  - enabled: 0
+    path: Assets/Scenes/MainBackup.unity
+    guid: fc9773eb9fb510e44ac2bf62d87e3149
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 11c040f5481e13749a0dbaa12706298f,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1521e58e7a65c1b4ca98c2d5ebcfcba3,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 817fbf4770f9ab847a738c7fac743441,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f0a3c63be1e28484083bd584f72fa405,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 37e60bc81c2caaf4d95cc887e48dc91b,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 757b245008bc2fa46b9371d69f0434d2,
+      type: 2}
