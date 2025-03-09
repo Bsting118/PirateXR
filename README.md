@@ -5,7 +5,7 @@ Developed alongside a group of three classmates that served as the project's dev
 In this game, you play as a pirate in VR and try to shoot as many targets with your ship's cannons as quickly as possible
 within a given time limit. Use your VR controllers to teleport/traverse the ship's deck, control the cannons, and steer the ship!
 
-Also, here's a screenshot of the game taken while playing it in an Oculus Quest 2 headset:
+Also, here's an early screenshot of the game taken while playing it in an Oculus Quest 2 headset:
 
 ![PirateXR-In-Unity-Editor](https://github.com/Bsting118/PirateXR/blob/main/piratexr_github_coverphoto.jpeg)
 
