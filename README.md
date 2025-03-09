@@ -7,7 +7,7 @@ within a given time limit. Use your VR controllers to teleport/traverse the ship
 
 Also, here's a screenshot of the game in the Unity Editor:
 
-![PirateXR-In-Unity-Editor](https://github.com/Bsting118/CS485-Project/blob/main/github_coverphoto.PNG)
+![PirateXR-In-Unity-Editor](https://github.com/Bsting118/PirateXR/blob/main/piratexr_github_coverphoto.jpeg)
 
 # To Download
 In order to work with this Unity project, please ensure you have Unity ver. 2022.3.4f1 installed locally. The XR Interaction Toolkit is also required for this project to run, 
